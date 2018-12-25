@@ -19,6 +19,7 @@
 
     <string-array name="array_countries">
 
+        <item>Select Area</item>
         <item>Australia</item>
         <item>Canada</item>
         <item>Cambodia</item>
@@ -30,7 +31,7 @@
         <item>USA</item>
     </string-array>
     <string-array name="espicalists">
-
+        <item>Select Espicalist</item>
         <item>Australia</item>
         <item>Canada</item>
         <item>Cambodia</item>
