@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="copyright">Copyright © 2018 by Mahmoud Osman.</string>
+    <string name="step4">Home Search</string>
+    <string name="Search">Search</string>
+    <string name="name_template">mahmoud</string>
+    <string name="about_template">Sergion Doctor</string>
+    <string name="speciality_template">Heart</string>
+    <string name="home">Home</string>
+    <string name="info_arabic">مثال عنك : 15 سنة في هذا المجال </string>
+    <string name="message">Message</string>
+    <string name="book">Book</string>
+    <string name="address_template">Address template</string>
+
+    <string name="fees_template">Fees : 130 L.E</string>
+    <string name="date_template">15/12/2017</string>
+    <string name="time_template">12:00 PM</string>
+    <string name="cancel">cancel</string>
+
+    <string-array name="array_countries">
+
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Cambodia</item>
+        <item>China</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>Rusia</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="espicalists">
+
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Cambodia</item>
+        <item>China</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>Rusia</item>
+        <item>USA</item>
+    </string-array>
+
+
+</resources>
